@@ -1,1 +1,2 @@
 # Movie-Success-Predictor
+This project involves making a predictive model using various machine learning algorithms for predicting any movie's success using parameters like runtime, genre, vote count, vote average, etc. The dataset used is formed by joining various datasets that have relationship with each other, from a kaggle repository. [(Link)](https://www.kaggle.com/datasets/omercolakoglu/tmdb-website-movie-database)
